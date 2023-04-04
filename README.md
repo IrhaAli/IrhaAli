@@ -7,8 +7,7 @@
     <img src="Screenshot 2023-04-04 at 7.54.33 AM.png" alt="Portfolio Badge" style="width: 80px;">
   </a>
 </div>
-### Areas of Expertise (?):
-Languages and Tools
+### Areas of Expertise (?)
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
