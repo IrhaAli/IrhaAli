@@ -16,14 +16,14 @@
 - Frameworks, Libraries and Environments: <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
+    <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" title="Express" alt="Express" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain.svg" title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" title="Rails" alt="Rails" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
   </div>
 - Testing: <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/storybook/storybook-plain.svg" title="Storybook" alt="Storybook" width="40" height="40"/>&nbsp;
+    <img src="https://www.svgrepo.com/show/354397/storybook-icon.svg" title="Storybook" alt="Storybook" width="40" height="40"/>&nbsp;
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6OWdYZseUmZvFNBNnNwm_koNUla5oDIKm270Q8QxG5Q&s" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/rspec/rspec-original.svg" title="RSpec" alt="RSpec" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
@@ -31,14 +31,17 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-plain.svg" title="Chai" alt="Chai" width="40" height="40"/>
   </div>
 - Systems and Databases: <div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-plain.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScgqdZAi7dpcxwpBpTZdfphqIE8Xklnt7qr24R6XQ&s" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-plain.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>&nbsp;
     <img src="https://www.cs-cart.com/blog/wp-content/uploads/for_blog_logo.png" title="CS-CART" alt="CS-CART" width="40" height="40"/>
   </div>
 
-### 🌱 I’m currently learning python
+### 🌱 What I'm currently learning
+<div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" title="Python" alt="Python" width="40" height="40"/>
+</div>
 
 ### 📫 How to reach me
   - <a href="https://www.linkedin.com/in/irha-ali-522039105/" target="_blank">
