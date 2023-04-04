@@ -7,6 +7,8 @@
     <img src="Screenshot 2023-04-04 at 7.54.33 AM.png" alt="Portfolio Badge" style="width: 80px;">
   </a>
 </div>
+
+I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada.
 <!--
 **IrhaAli/IrhaAli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
