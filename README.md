@@ -1,8 +1,8 @@
 ### Hi there 👋, I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Canada with a background in Mathematics.
 <div id="badges" dir="auto" style="align: center;">
   <a href="https://uwaterloo.ca/scholar/i37ali" target="_blank">
-    <img src="Screenshot 2023-04-04 at 7.54.33 AM.png" alt="Portfolio Badge" style="width: 80px; align: center;">
-    <img src="https://komarev.com/ghpvc/?username=IrhaAli&style=flat-square&color=blue" alt="Profile Views"/>
+    <img src="Screenshot 2023-04-04 at 7.54.33 AM.png" alt="Portfolio Badge" style="width: 80px;">
+    <img src="https://komarev.com/ghpvc/?username=IrhaAli&style=flat-square&color=blue" alt="Profile Views" style="width: 130px;" />
   </a>
 </div>
 
