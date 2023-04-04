@@ -6,6 +6,8 @@
   </a>
 </div>
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### 🤓 What I know so Far
 - Languages: <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -37,17 +39,30 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>&nbsp;
     <img src="https://www.cs-cart.com/blog/wp-content/uploads/for_blog_logo.png" title="CS-CART" alt="CS-CART" width="40" height="40"/>
   </div>
+  
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 🔥 My (flaming hot) Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=IrhaAli&theme=calm&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrhaAli&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 🌱 What I'm currently learning
 <div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" title="Python" alt="Python" width="40" height="40"/>
 </div>
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ### 📫 How to reach me
   - <a href="https://www.linkedin.com/in/irha-ali-522039105/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   - irhaali_97@hotmail.ca
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 💬 Ask me about how I got into this field
 <!--
