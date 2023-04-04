@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://uwaterloo.ca/scholar/i37ali" target="_blank">
-    <img src="https://cdn1.iconfinder.com/data/icons/internet-12/256/02-512.png" alt="Portfolio Badge"/>
+    <img src="Screenshot 2023-04-04 at 7.54.33 AM.png" alt="Portfolio Badge"/>
   </a>
 </div>
 <!--
