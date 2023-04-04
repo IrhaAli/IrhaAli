@@ -2,6 +2,7 @@
 <div id="badges" dir="auto" style="align: center;">
   <a href="https://uwaterloo.ca/scholar/i37ali" target="_blank">
     <img src="Screenshot 2023-04-04 at 7.54.33 AM.png" alt="Portfolio Badge" style="width: 80px; align: center;">
+    <img src="https://komarev.com/ghpvc/?username=IrhaAli&style=flat-square&color=blue" alt="Profile Views"/>
   </a>
 </div>
 
