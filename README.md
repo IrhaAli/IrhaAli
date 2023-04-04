@@ -1,9 +1,9 @@
 ### Hi there 👋
 <div id="badges">
-  <a href="https://www.linkedin.com/in/irha-ali-522039105/">
+  <a href="https://www.linkedin.com/in/irha-ali-522039105/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://uwaterloo.ca/scholar/i37ali">
+  <a href="https://uwaterloo.ca/scholar/i37ali" target="_blank">
     <img src="https://cdn1.iconfinder.com/data/icons/internet-12/256/02-512.png" alt="Portfolio Badge"/>
   </a>
 </div>
